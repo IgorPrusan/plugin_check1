@@ -1,0 +1,6 @@
+Initial sequance: 
+6 -4.23 0 -5 10 11.2 
+"Good" numbers - natural numbers. "Bad" numbers - everything else.
+Ordered sequance: 
+-4.23 0 -5 11.2 6 10 
+This sequance has 6 numbers. Their arithmetical mean = 2.995.
